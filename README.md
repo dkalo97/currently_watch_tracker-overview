@@ -104,4 +104,4 @@ Testing: Vitest for unit tests (400+ across the `lib`/`api` layers) and an emula
 
 - **Live web app**: [currently.kalotech.dev](https://currently.kalotech.dev)
 - **iOS**: [Available on the App Store](https://apps.apple.com/us/app/currently-tv-movie-tracker/id6805608081)
-- **Android**: Play Store listing complete, ready for release
+- **Android**: [Available on the Google Play Store](https://play.google.com/store/apps/details?id=com.kalotech.currently)
